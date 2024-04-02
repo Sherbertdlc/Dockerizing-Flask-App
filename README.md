@@ -8,7 +8,7 @@ In this project I created the following:
 - Pushed the container image it to DockerHub
 - Tested the containerized application
 
-My blog for this project is here: https://www.linkedin.com/pulse/build-deploy-containerize-python-flask-web-app-docker-shai-shaunai--zfyze/
+My blog for this project is here: https://www.linkedin.com/pulse/build-deploy-containerise-python-flask-web-app-docker-shai-shaunai--zfyze/
 
 Following from the inital Docker Image build, I utilised AWS services:
 
