@@ -4,11 +4,11 @@ Containerising a Python Flask Application with Docker
 In this project I created the following: 
 
 - A Python Flask application for my CV web page
-- Containerised the app with Docker
+- Containerized the app with Docker
 - Pushed the container image it to DockerHub
-- Tested the containerised application
+- Tested the containerized application
 
-My blog for this project is here: https://www.linkedin.com/pulse/build-deploy-containerise-python-flask-web-app-docker-shai-shaunai--zfyze/
+My blog for this project is here: https://www.linkedin.com/pulse/build-deploy-containerize-python-flask-web-app-docker-shai-shaunai--zfyze/
 
 Following from the inital Docker Image build, I utilised AWS services:
 
